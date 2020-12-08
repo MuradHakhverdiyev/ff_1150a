@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+  body{
+    color:rgb(255,255,255);
+    background-image: url(background.jpg);
+    background-repeat:round;
+    background-attachment:fixed;
+    background-size:cover;
+    font-family: Arial,Helvetica,'Gill Sans' sans-serif;
+  }
+
+  .icona img{
+    width: 10%;
+    margin-left: 46%;
+  }
+  .navbar{
+    color:rgb(255,255,255);
+  }
+  .navbartable a{
+    color:rgb(255,255,255);
+    text-decoration-line: none;
+    align-items: center;
+ 
+  }
+.navbartable{
+  background-color: rgba(0,0,0,0.3);
+  align-items: center;
+  }
+  .navbartable{
+    border-collapse: collapse;
+    width: 50%;
+    margin-left:25%;
+  }
+  .navbartable th{
+    padding-left: 30px;
+    height: 50px;
+  }
+  .h1 {
+    margin-top: 100px;
+   text-align: center;
+   font-size: 40px;
+  }
+.aciqlama{
+  font-family: sans-serif;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 16px;
+}
+.yazi{
+  text-align: center;
+}
+.xerite{
+  margin-top: 20px;
+  text-align: center;
+}
+.copy{
+  
+  background-color: rgba(0,0,0,.5);
+ text-align: center;
+ margin-top: 9px;
+ height: 47px;
+ 
+}
+footer{
+  margin-left: 196px;
+  width: 71%;
+}
+footer p{
+  font-size: 13px;
+  font-family:  'Gill Sans' sans-serif;
+  padding-top: 15px;
+}
